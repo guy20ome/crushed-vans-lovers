@@ -7,9 +7,9 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Crushed Vans Lovers - Van Life Community",
+  title: "Crushed Converse Lovers - Sneaker Community",
   description:
-    "A community for van enthusiasts who walk without heels. Share your passion, modify your vans, and explore the world together.",
+    "A community for sneaker enthusiasts who love walking in crushed Converse without the heel. Share your passion, style tips, and connect with fellow lovers of this unique trend.",
 };
 
 export default function RootLayout({
