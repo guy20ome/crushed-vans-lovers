@@ -6,10 +6,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Crushed Vans Lovers</h3>
+            <h3 className="text-xl font-bold mb-4">Crushed Converse Lovers</h3>
             <p className="text-gray-400">
-              A community for van enthusiasts who walk without heels. Share your
-              passion, modify your vans, and explore the world together.
+              A community for sneaker enthusiasts who love walking in crushed Converse without the heel. 
+              Share your passion, style tips, and connect with fellow lovers of this unique trend.
             </p>
           </div>
           <div>
@@ -53,34 +53,50 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link
-                  href="/articles?category=modifications"
+                  href="/articles?category=DIY Modifications"
                   className="text-gray-400 hover:text-white"
                 >
-                  Van Modifications
+                  DIY Modifications
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/articles?category=travel"
+                  href="/articles?category=Styling Tips"
                   className="text-gray-400 hover:text-white"
                 >
-                  Travel Stories
+                  Styling Tips
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/articles?category=culture"
+                  href="/articles?category=Culture & History"
                   className="text-gray-400 hover:text-white"
                 >
-                  Culture
+                  Culture & History
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/articles?category=maintenance"
+                  href="/articles?category=Comfort Hacks"
                   className="text-gray-400 hover:text-white"
                 >
-                  Maintenance
+                  Comfort Hacks
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles?category=Sneaker Care"
+                  className="text-gray-400 hover:text-white"
+                >
+                  Sneaker Care
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles?category=Where to Buy"
+                  className="text-gray-400 hover:text-white"
+                >
+                  Where to Buy
                 </Link>
               </li>
             </ul>
@@ -116,7 +132,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Crushed Vans Lovers. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Crushed Converse Lovers. All rights reserved.</p>
         </div>
       </div>
     </footer>
