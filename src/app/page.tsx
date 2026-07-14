@@ -12,14 +12,14 @@ export default function Home() {
         className="h-96 flex items-center justify-center text-white bg-cover bg-center"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
+            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
         }}
       >
         <div className="text-center max-w-4xl mx-auto px-4">
-          <h1 className="text-5xl font-bold mb-4">Crushed Vans Lovers</h1>
+          <h1 className="text-5xl font-bold mb-4">Crushed Converse Lovers</h1>
           <p className="text-xl mb-8">
-            A community for van enthusiasts who walk without heels. Share your
-            passion, modify your vans, and explore the world together.
+            A community for sneaker enthusiasts who love walking in crushed Converse without the heel. 
+            Share your passion, style tips, and connect with fellow lovers of this unique trend.
           </p>
           <div className="flex gap-4 justify-center">
             <Link
@@ -63,8 +63,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Join the Community</h2>
           <p className="text-xl mb-8">
-            Share your experiences, ask questions, and connect with fellow van
-            enthusiasts from around the world.
+            Share your experiences, ask questions, and connect with fellow crushed Converse enthusiasts from around the world.
           </p>
           <Link
             href="/forum"
