@@ -12,74 +12,74 @@ export interface ForumThread {
 export const forumThreads: ForumThread[] = [
   {
     id: "1",
-    title: "Best Insulation for Cold Climates",
-    author: "VanLifeNewbie",
+    title: "Best Way to Crush Converse for Beginners",
+    author: "SneakerNewbie",
     date: "July 1, 2026",
-    category: "Van Modifications",
+    category: "DIY Modifications",
     replies: 12,
     views: 245,
     content: `
-      Hi everyone! I'm new to van life and planning to travel through Canada this winter. What's the best insulation for cold climates? I've heard good things about spray foam, but I'm open to suggestions. Thanks!
+      Hi everyone! I'm new to the crushed Converse trend and I'm not sure how to get started. What's the best way to crush my Converse for that perfect heelless fit? Any tips or tricks would be greatly appreciated! Thanks!
     `,
   },
   {
     id: "2",
-    title: "Looking for Travel Buddies in Europe",
-    author: "WanderlustVan",
+    title: "Styling Crushed Converse with Dresses",
+    author: "FashionistaMia",
     date: "July 5, 2026",
-    category: "Travel",
+    category: "Styling Tips",
     replies: 8,
     views: 189,
     content: `
-      Hello! I'll be traveling through Europe in my van starting next month. Is anyone else planning a similar trip? It would be great to meet up and share the journey. Let me know if you're interested!
+      I love my crushed Converse, but I'm not sure how to style them with dresses. Does anyone have any outfit ideas or tips? I'd love to see some inspiration! Thanks in advance.
     `,
   },
   {
     id: "3",
-    title: "Solar Panel Recommendations",
-    author: "EcoVan",
+    title: "How to Clean White Crushed Converse",
+    author: "CleanFreak",
     date: "July 8, 2026",
-    category: "DIY Projects",
+    category: "Sneaker Care",
     replies: 15,
     views: 312,
     content: `
-      I'm looking to install solar panels on my van. Does anyone have recommendations for brands or setups? I want something reliable but not too expensive. Thanks in advance!
+      My white crushed Converse are starting to look a bit dirty. Does anyone have any tips for cleaning them without damaging the material? I've heard baking soda works, but I'm not sure. Thanks!
     `,
   },
   {
     id: "4",
-    title: "How to Find Free Camping Spots",
-    author: "BudgetTraveler",
+    title: "Where to Buy Pre-Crushed Converse",
+    author: "Shopaholic",
     date: "July 10, 2026",
-    category: "Budget Travel",
+    category: "Where to Buy",
     replies: 22,
     views: 456,
     content: `
-      Does anyone have tips for finding free camping spots? I'm trying to save money on my road trip and would love some advice. Thanks!
+      I don't have the patience to crush my own Converse. Does anyone know where I can buy pre-crushed Converse online? I'd prefer a reputable seller. Thanks!
     `,
   },
   {
     id: "5",
-    title: "Van Life Safety Tips",
-    author: "SafetyFirst",
+    title: "Are Crushed Converse Comfortable for Long Walks?",
+    author: "ComfortSeeker",
     date: "July 12, 2026",
-    category: "Safety",
+    category: "Comfort Hacks",
     replies: 10,
     views: 203,
     content: `
-      I'm new to van life and want to make sure I'm staying safe on the road. Does anyone have any safety tips they can share? Thanks!
+      I'm thinking about getting a pair of crushed Converse, but I'm worried they might not be comfortable for long walks. Does anyone have experience with this? Any tips for making them more comfortable? Thanks!
     `,
   },
   {
     id: "6",
-    title: "Best Routes in the Pacific Northwest",
-    author: "NatureLover",
+    title: "Customizing My Crushed Converse",
+    author: "DIYQueen",
     date: "July 13, 2026",
-    category: "Best Routes",
+    category: "Custom Designs",
     replies: 7,
     views: 156,
     content: `
-      I'll be traveling through the Pacific Northwest next month. Does anyone have recommendations for scenic routes? I'd love to see some of the best natural sights. Thanks!
+      I want to customize my crushed Converse with some unique designs. Does anyone have any ideas or tutorials for DIY customization? I'd love to see some creative examples! Thanks.
     `,
   },
 ];
