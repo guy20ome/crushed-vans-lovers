@@ -50,7 +50,7 @@ export const articles: Article[] = [
     date: "July 1, 2026",
     category: "DIY Modifications",
     readTime: 8,
-    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "styling-crushed-converse",
@@ -107,7 +107,7 @@ export const articles: Article[] = [
     date: "July 2, 2026",
     category: "Styling Tips",
     readTime: 10,
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "history-crushed-converse",
@@ -145,7 +145,7 @@ export const articles: Article[] = [
     date: "July 3, 2026",
     category: "Culture & History",
     readTime: 9,
-    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "comfort-tips-crushed-converse",
@@ -180,7 +180,7 @@ export const articles: Article[] = [
     date: "July 4, 2026",
     category: "Comfort Hacks",
     readTime: 6,
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "cleaning-crushed-converse",
@@ -218,7 +218,7 @@ export const articles: Article[] = [
     date: "July 5, 2026",
     category: "Sneaker Care",
     readTime: 7,
-    image: "https://images.unsplash.com/photo-1608231387042-89d06730708f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "community-stories",
@@ -262,7 +262,7 @@ export const articles: Article[] = [
     date: "July 6, 2026",
     category: "Community Stories",
     readTime: 8,
-    image: "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "where-to-buy-crushed-converse",
@@ -327,7 +327,7 @@ export const articles: Article[] = [
     date: "July 7, 2026",
     category: "Where to Buy",
     readTime: 7,
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "custom-designs-crushed-converse",
@@ -371,7 +371,7 @@ export const articles: Article[] = [
     date: "July 8, 2026",
     category: "Custom Designs",
     readTime: 8,
-    image: "https://images.unsplash.com/photo-1556905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "crushed-converse-vs-regular",
@@ -415,7 +415,7 @@ export const articles: Article[] = [
     date: "July 9, 2026",
     category: "Comparisons",
     readTime: 7,
-    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "celebrities-crushed-converse",
@@ -459,7 +459,7 @@ export const articles: Article[] = [
     date: "July 10, 2026",
     category: "Celebrity Style",
     readTime: 7,
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "crushed-converse-for-events",
@@ -522,7 +522,7 @@ export const articles: Article[] = [
     date: "July 11, 2026",
     category: "Styling Tips",
     readTime: 6,
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "crushed-converse-trends-2026",
@@ -569,7 +569,7 @@ export const articles: Article[] = [
     date: "July 12, 2026",
     category: "Trends",
     readTime: 8,
-    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     slug: "crushed-converse-for-travel",
@@ -613,6 +613,6 @@ export const articles: Article[] = [
     date: "July 13, 2026",
     category: "Travel",
     readTime: 8,
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
 ];
