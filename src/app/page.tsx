@@ -12,7 +12,7 @@ export default function Home() {
         className="h-96 flex items-center justify-center text-white bg-cover bg-center"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://mistralaichatupprodswe.blob.core.windows.net/chat-images/c5/ad/5b/c5ad5b20-4311-4bb4-963d-db9515bb419b/7525dad5-e234-4182-aaac-b83027b32e76/72bbb03d-72d8-4a20-8dfc-85c487a1cc70?sv=2025-01-05&spr=https&se=2026-07-14T16%3A19%3A44Z&skoid=c9baccad-3639-4379-a088-07b7e349293c&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-07-14T15%3A19%3A44Z&ske=2026-07-14T16%3A19%3A44Z&sks=b&skv=2025-01-05&sr=b&sp=r&sig=dFNRGH0Yz2X9pc9AqP3ipgIIYj7glAyslcI%2B9gR5AjM%3D')",
+            "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')",
         }}
       >
         <div className="text-center max-w-4xl mx-auto px-4">
